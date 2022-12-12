@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{1C924E72-5D11-45CD-B430-DD05178B3446}|Default">
+  <MonoDevelop.Ide.ItemProperties.MindBoxTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MindBoxTests/Usings.cs">
+    <Files>
+      <File FileName="MindBox/Figures/Circle.cs" Line="1" Column="1" />
+      <File FileName="MindBox/Figures/Triangle.cs" Line="1" Column="1" />
+      <File FileName="MindBox/Base/Shape.cs" Line="1" Column="1" />
+      <File FileName="MindBoxTests/Tests/TriangleTests.cs" Line="31" Column="1" />
+      <File FileName="MindBoxTests/Tests/CircleTests.cs" Line="24" Column="19" />
+      <File FileName="MindBoxTests/Usings.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MindBox" expanded="True">
+            <Node name="MindBox" expanded="True">
+              <Node name="Base" expanded="True" />
+              <Node name="Figures" expanded="True" />
+            </Node>
+            <Node name="MindBoxTests" expanded="True">
+              <Node name="Tests" expanded="True" />
+              <Node name="Usings.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MindBox" expanded="True">
+            <Node name="MindBoxTests" expanded="True">
+              <Node name="MindBoxTests.Tests" expanded="True">
+                <Node name="CircleTests" expanded="True" />
+                <Node name="TriangleTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

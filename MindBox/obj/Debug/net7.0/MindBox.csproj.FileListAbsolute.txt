@@ -1,0 +1,12 @@
+/Users/naumov/Desktop/MindBox/MindBox/bin/Debug/net7.0/MindBox.deps.json
+/Users/naumov/Desktop/MindBox/MindBox/bin/Debug/net7.0/MindBox.dll
+/Users/naumov/Desktop/MindBox/MindBox/bin/Debug/net7.0/MindBox.pdb
+/Users/naumov/Desktop/MindBox/MindBox/obj/Debug/net7.0/MindBox.csproj.AssemblyReference.cache
+/Users/naumov/Desktop/MindBox/MindBox/obj/Debug/net7.0/MindBox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naumov/Desktop/MindBox/MindBox/obj/Debug/net7.0/MindBox.AssemblyInfoInputs.cache
+/Users/naumov/Desktop/MindBox/MindBox/obj/Debug/net7.0/MindBox.AssemblyInfo.cs
+/Users/naumov/Desktop/MindBox/MindBox/obj/Debug/net7.0/MindBox.csproj.CoreCompileInputs.cache
+/Users/naumov/Desktop/MindBox/MindBox/obj/Debug/net7.0/MindBox.dll
+/Users/naumov/Desktop/MindBox/MindBox/obj/Debug/net7.0/refint/MindBox.dll
+/Users/naumov/Desktop/MindBox/MindBox/obj/Debug/net7.0/MindBox.pdb
+/Users/naumov/Desktop/MindBox/MindBox/obj/Debug/net7.0/ref/MindBox.dll
